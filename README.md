@@ -1,0 +1,2 @@
+# simactivation
+Telecom 
